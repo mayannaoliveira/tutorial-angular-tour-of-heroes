@@ -1,3 +1,6 @@
+## Tutorial realizado para estudo do Angular
+Esse tutorial foi realizado utilizando o passo-a-passo encontrado na documentação do Angular disponível no site [Angular Tutorial](https://angular.io/tutorial/) a finalidade é somente estudo. Tutorial realizado 15/08/2021 por [Mayanna Oliveira](https://linktr.ee/mayannaoliveira). 
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
